@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EthanHuston
-- 👀 I’m interested in Game Development and general CS
-- 🌱 I’m currently learning CS at The Ohio State University
+- 👀 I’m interested in mobile iOS and game development.
 - 📫 How to reach me Email: ethanghuston@gmail.com
 
 <!---
