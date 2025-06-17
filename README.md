@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EthanHuston
-- 👀 I’m interested in mobile iOS and game development.
+- 👀 I’m interested in Full Stack Web and Mobile Development.
 - 📫 How to reach me Email: ethanghuston@gmail.com
 
 <!---
